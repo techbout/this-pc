@@ -1,6 +1,6 @@
 # This PC
 
-[![This PC](redd.png)](https://github.com/techbout/this-pc)
+[![This PC](redd.png)](https://icncomputer.com/this-pc/)
 
 My Computer is a Microsoft Windows feature first found in Windows 95 and included with all later versions that lets you explore and manage the contents of your computer drives. The image shows examples of the My Computer icon in Microsoft Windows XP, Vista and Windows 7, and the *"This PC"* icon in Windows 8 and in Windows 10. Although the name has changed, *"This PC"* still has the same functionality as *"This PC."*
 
